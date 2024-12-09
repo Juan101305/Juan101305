@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on any C++ projects
 - 📫 How to reach me rezttvxdninja@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Gaming is my main hobby
 
 <!---
